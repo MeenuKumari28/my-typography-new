@@ -28,7 +28,7 @@ lang: ftd
 
 \-- fastn.dependency: meenukumari28.github.io/my-typography-new
 
--- site-doc.header:
+-- site-doc.header: Next Step
 
 Now import `my-typography-new` inside `.ftd` file as shown below:
 
@@ -38,7 +38,7 @@ lang: ftd
 \-- import: meenukumari28.github.io/my-typography-new
 
 
--- site-doc.header: 
+-- site-doc.header: Next Step
 
 add `my-typography-new` `types` to `ds.page` `types` attribute as shown
 below:
@@ -49,7 +49,7 @@ lang: ftd
 \-- ds.page:
 types: $my-typography-new.types
 
--- site-doc.header: 
+-- site-doc.header: Next Step
 
 Once you add `types: $my-typography-new.types` inside your `.ftd` file,
 `my-typography-new` will be added as `fastn` default typography to your
@@ -63,7 +63,7 @@ lang: ftd
 
 \-- fastn.dependency: meenukumari28.github.io/my-typography-new
 
--- site-doc.header:
+-- site-doc.header: Next Step
 
 Once you add above dependency, then import `my-typography-new` inside your
 `.ftd` file:
@@ -73,7 +73,7 @@ lang: ftd
 
 \-- import: meenukumari28.github.io/my-typography-new
 
--- site-doc.header:
+-- site-doc.header: Next Step
 
 Done! `my-typography-new` is now added. Lets define a `page` component:
 
@@ -120,7 +120,7 @@ children: $page.wrap
 \-- end: page
 
 
--- site-doc.header:
+-- site-doc.header: Next Step
 
 In above code snippet we defined `page` component which has `types`, `title`,
 `body` and  `wrap` attributes.
@@ -188,7 +188,7 @@ color: $inherited.colors.text
 
 -- end: cb.rendered
 
--- site-doc.header:
+-- site-doc.header: Next Step
 
 Click on download icon on above code snippet `types.ftd` file will be
 downloaded, add previously downloaded `my-ds.ftd` and `types.ftd` inside
