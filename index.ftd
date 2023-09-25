@@ -1,4 +1,5 @@
 -- import: meenukumari28.github.io/my-typography-new/custom
+-- import: meenukumari28.github.io/dancing-script-font/assets as dancing-script-font-assets
 
 
 
@@ -200,7 +201,7 @@ e.g. `http://127.0.0.1:8001/types` You will see the `page` component using
 Done! isn't it simple? Try this and don't forget to jump on our [Discord](https://discord.gg/bucrdvptYd)
 
 [Click here](fastn-typography/) to know more `fastn` predefined `inherited`
-types using `dancing-script-font-font` font-family and font-sizes.
+types using `dancing-script-font` font-family and font-sizes.
 
 -- end: site-doc.doc-home
 
